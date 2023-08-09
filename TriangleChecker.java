@@ -1,8 +1,4 @@
 ﻿/* 
-    SEHH2242-104 Object-oriented Programming 
-    TriangleChecker_21000210A.java 
-    21000210A Yeung Miu Wan
-    
     The program is to determine whether the triangle is Equilateral, Isosceles, Scalene, or Right angled.
 */
 
