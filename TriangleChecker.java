@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class TriangleChecker_21000210A {
+public class TriangleChecker {
     public static void main(String[] arg) {
 
         //Prepare for integers input for the three sides of a triangle
